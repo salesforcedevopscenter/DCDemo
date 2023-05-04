@@ -4,6 +4,9 @@
 
 package.xml
 
+# Ignoring Profiles 
+**/Profiles/*
+
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
